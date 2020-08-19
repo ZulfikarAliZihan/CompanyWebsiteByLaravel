@@ -1,0 +1,144 @@
+/** Global **/
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.section-header{
+    color: #000;
+    padding: 30px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+}
+/** Global **/ 
+
+/** Header **/
+.top-header{
+    background-color: #F6FDFF;
+}
+.logo-main{
+    width: 150px;
+    padding: 10px;
+}
+.bottom-header.bottom-header{ 
+ font-size: 14px;
+}
+/** Header **/ 
+
+/** Navigation **/
+.navbar-main{
+    background-color: #0059BF !important;
+    color: #fff !important;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #fff;
+}
+/** Navigation **/ 
+
+/** Slider **/
+
+/** Slider **/
+
+/** Slider Bottom**/
+.bottom-slider-box {
+    background: #496AEB;
+    padding: 36px 99px;
+    color: #fff;
+    text-align: center;
+    margin: -20px;
+    border-radius: 10px;
+    opacity: .8;
+    height: 150px;
+    margin-left: 20px;
+}
+#bottom-slider{
+    margin-bottom: 40px;
+}
+/** Slider Bottom**/ 
+
+/**main-content**/
+#main-content {
+    background: transparent url(../images/bg/bg.png) 0% 0% no-repeat padding-box;
+    opacity: 1;
+    background-size: contain;
+    background-repeat: repeat-x;
+    height: 700px;
+}
+/**main-content**/ 
+
+/** Product **/
+
+
+.btn-all-products{
+    display: block;
+    background: transparent linear-gradient(186deg, #08BBFE 0%, #231CEC 100%) 0% 0% no-repeat padding-box;
+    border-radius: 116px;
+    opacity: 1; 
+    color: #fff;
+    width: 150px;
+    padding: 5px 10px;
+    text-align: center;
+}
+.single-product {
+    background-color: #fff;
+    text-align: center;
+    border-radius: 5px;
+    width: 250px;
+}
+.single-product h5{
+    color: #000;
+    font-size: 20px;
+    font-weight: 500;
+}
+/** Product **/ 
+
+/** Service **/
+.single-service{
+    background:#0059BF;
+    justify-items: center;
+    width: 350px;
+    height: 300px;
+    padding-top: 110px;
+    padding-left: 120px;
+    margin-bottom: 20px;
+}
+.round{
+    background-color: #0786D8;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    padding-top: 10px;
+    text-align: center;
+} 
+/** Service **/ 
+
+/** News **/
+.single-news{
+    height: 310px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 0px 0px 10px 10px;
+}
+.single-news span{
+    font-size: 16px;
+    padding: 2px 8px;
+}
+.single-news p{
+    font-size: 12px;
+    padding:2px 8px
+}
+/** News **/ 
+
+/** Footer **/
+#footer-section{
+    background: #E8F8FF;
+    margin-top: 50px;
+    padding: 30px 10px 0px 10px;
+
+}
+footer#footer-section ul {
+    list-style: none;
+    font-size: 14px;
+}
+#footer-section li {
+    padding-bottom: 8px;
+}
+/** Footer **/ 
